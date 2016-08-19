@@ -1,0 +1,22 @@
+{
+  "name": "style-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dujuanxian/style-guide.git"
+  },
+  "keywords": [
+    "style-guide"
+  ],
+  "author": "Du Juan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dujuanxian/style-guide/issues"
+  },
+  "homepage": "https://github.com/dujuanxian/style-guide#readme"
+}
