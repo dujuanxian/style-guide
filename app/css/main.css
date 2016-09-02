@@ -1,2 +1,35 @@
+.font-xs {
+  font-size: 12px; }
+
+.font-sm {
+  font-size: 14px; }
+
+.font-md {
+  font-size: 16px;
+  font-weight: 600; }
+
+.font-lg {
+  font-size: 18px;
+  font-weight: 600; }
+
 body {
-  margin: 0; }
+  margin: 0;
+  font-family: Arial,sans-serif;
+  height: 100%; }
+
+main {
+  width: 960px;
+  height: 100%;
+  margin: 0 auto; }
+
+section {
+  width: 100%;
+  margin: 20px 0;
+  padding: 10px 20px;
+  border-bottom: 4px solid #B4C4CC;
+  background-color: #F7F7F7; }
+  section header {
+    border-bottom: 1px solid #DFDFDC; }
+    section header h2 {
+      color: #B4C4CC;
+      font-size: 18px; }

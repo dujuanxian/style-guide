@@ -1,0 +1,16 @@
+@import './variable';
+
+.font-xs {
+	font-size: $font-xs;
+}
+.font-sm {
+	font-size: $font-sm;
+}
+.font-md {
+	font-size: $font-md;
+	font-weight: 600;
+}
+.font-lg {
+	font-size: $font-lg;
+	font-weight: 600;
+}
